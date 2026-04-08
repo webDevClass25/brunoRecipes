@@ -1,0 +1,30 @@
+* {
+    background-color: #6F8FAF;
+    background-color: rgb(145, 181, 213);
+}
+
+#header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
+
+h1 {
+    font-size: 6rem;
+}
+
+#recipes{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+}
+
+img {
+    width: 30rem;
+    height: auto;
+}
