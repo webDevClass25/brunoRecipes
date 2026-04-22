@@ -1,0 +1,29 @@
+*{
+    background-color: #d9d2e9;
+    font-size: 1.5rem;
+}
+
+#description{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#ingrediants{
+    display: flex;
+    justify-content: start;
+    align-items: start;
+    flex-direction: column;
+}
+
+#steps{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#ingrediants>h2{
+    color: blue;
+}
